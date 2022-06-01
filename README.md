@@ -1,7 +1,7 @@
 # WhatsApp-Clone
 ## Firebase Database, Storage and User Authentication
 ### Real Time communications
-### We will build several Whatsapp features like:
+### Build several Whatsapp features like:
 
    * User accounts with signup and login
 
