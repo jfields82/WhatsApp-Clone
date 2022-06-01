@@ -3,16 +3,16 @@
 ### Real Time communications
 ### We will build several Whatsapp features like:
 
-    * User accounts with signup and login
+   * User accounts with signup and login
 
-    * Initiate chats with contacts on your phone
+   * Initiate chats with contacts on your phone
 
-    * Send sms messages to users that aren't signed up
+   * Send sms messages to users that aren't signed up
 
    *  User profiles
 
-    * User details screen and potential enhancements
+   * User details screen and potential enhancements
 
-    * Live chat functionality
+   * Live chat functionality
 
-    * Live status updates
+   * Live status updates
