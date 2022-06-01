@@ -1,4 +1,4 @@
-# WhatsApp-Clone
+# WhatsApp-Clone in Kotlin using Android Studio
 ## Firebase Database, Storage and User Authentication
 ### Real Time communications
 ### Build several Whatsapp features like:
